@@ -1,10 +1,10 @@
- # Online College Admission System (Django)
+# Online College Admission System (Django)
 
-**## Overview**
+## Overview
 
 This project provides a comprehensive online college admission system built using the Django framework. It streamlines the application process for prospective students and manages admissions data for college administrators.
 
-**## Key Features:**
+## Key Features:
 
 - **Student Application:**
     - Create accounts, fill out applications, upload documents.
