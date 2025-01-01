@@ -1,4 +1,4 @@
- **# Online College Admission System (Django)**
+ **Online College Admission System (Django)**
 
 **## Overview**
 
